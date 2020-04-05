@@ -1,0 +1,46 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    
+  }
+  
+  .elements {
+    text-align: center;
+    display: inline-block;
+    width:20%;
+    padding:40px;
+    
+  
+  }
+  
+  body {
+    background-color: #e0bbe4;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 5px 0 #FFDFF3;
+    font-size: 8rem;
+    color: #957dad;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #FFDFF3;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+  
+  }
+  
